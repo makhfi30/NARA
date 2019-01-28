@@ -1,2 +1,2 @@
 # NARA
-a digital poem
+a digital creature
